@@ -27,4 +27,5 @@ The model is included in the folder and is mostly unchanged, except for the foll
 - [Analysis_Step4_Robustness.ipynb](https://github.com/CEOofMicrosoft/EPA141A_Group12/blob/main/Analysis_Step4_Robustness.ipynb): Jupyter Notebook file containing the robustness analysis
 - [run_MORDM_script.py](https://github.com/CEOofMicrosoft/EPA141A_Group12/blob/main/run_MORDM_script.py): Python script for running the optimization and saving the results to an external file 
 ## EMA Workbench Modification
-- [optimization_fixed.py](https://github.com/CEOofMicrosoft/EPA141A_Group12/blob/main/optimization_fixed.py): this file should replace optimization.py in EMA Workbench for our code to run well, as it includes changes to how archives are read and processed. With the original version, the archives wouldn't be read in the right way.
+One file of the EMA Workbench Python package had to be modified for the analysis to work.
+- [optimization_fixed.py](https://github.com/CEOofMicrosoft/EPA141A_Group12/blob/main/optimization_fixed.py): this file should replace optimization.py in EMA Workbench for our code to run well, as it includes changes to how archives are read and processed. With the original version, the archives wouldn't be read in the right way
