@@ -1,5 +1,5 @@
 # Introduction
-This assignment was done for the course EPA141A, Model-based Decision Making. In this folder, all the files necessary to run the analyses are included, as well as the documents that make up the assignment: the report and the political reflection. Below, an overview is given of the files of interest. 
+This assignment was done for the course EPA141A, Model-based Decision Making. In this respository, all the files necessary to run the analyses are included, as well as the documents that make up the assignment: the report and the political reflection. Below, an overview is given of the files of interest. 
 
 |Group Number |12|
 |---|---|
@@ -9,6 +9,8 @@ This assignment was done for the course EPA141A, Model-based Decision Making. In
 |Lale Günhan | 4858441 |
 
 # Files of Interest
+## Reports
+(Report EPA141A Group 12.pdf)[https://github.com/CEOofMicrosoft/EPA141A_Group12/blob/main/Reports/Report%20EPA141A%20Group%2012.pdf]
 ## Model
 The model is included in the folder and is mostly unchanged, except for the following files:
 - problem_formulation.py: our custom problem formulation is included in problem_formulation
