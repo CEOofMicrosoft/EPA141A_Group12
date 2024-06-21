@@ -10,7 +10,9 @@ This assignment was done for the course EPA141A, Model-based Decision Making. In
 
 # Files of Interest
 ## Reports
-[Report EPA141A Group 12.pdf](https://github.com/CEOofMicrosoft/EPA141A_Group12/blob/main/Reports/Report%20EPA141A%20Group%2012.pdf)
+The documents for this project are included in the Reports folder.
+[Report EPA141A Group 12.pdf](https://github.com/CEOofMicrosoft/EPA141A_Group12/blob/main/Reports/Report%20EPA141A%20Group%2012.pdf): The complete report for this project which describes the process, analysis and recommendations.
+[https://github.com/CEOofMicrosoft/EPA141A_Group12/blob/main/Reports/Report%20EPA141A%20Group%2012.pdf](https://github.com/CEOofMicrosoft/EPA141A_Group12/blob/main/Reports/Political%20Reflection%20EPA141A%20Group%2012.pdf): The political reflection describing the political aspects of the process and how we experienced them. 
 ## Model
 The model is included in the folder and is mostly unchanged, except for the following files:
 - problem_formulation.py: our custom problem formulation is included in problem_formulation
