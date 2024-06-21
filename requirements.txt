@@ -1,0 +1,8 @@
+ema_workbench
+openpyxl
+xlrd
+networkx
+ipyparallel
+pandas
+numpy
+matplotlib
